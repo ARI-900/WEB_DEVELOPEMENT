@@ -1,3 +1,3 @@
 # WEB_dEVELOPEMENT
 
-<h1>Author:</h1> <h2>Arijit CHowdhury</h2>
+<h1>Author:</h1> <big>Arijit CHowdhury</big>
